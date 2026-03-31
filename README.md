@@ -1,5 +1,5 @@
 # Machine-Learning
-Desenvolvi um projeto de Machine Learning utilizando Python e bibliotecas como Pandas e Scikit-learn, com foco na análise de dados e construção de modelo preditivo. Realizei etapas de tratamento, análise exploratória, treinamento e avaliação do modelo, identificando padrões e gerando previsões a partir dos dados.
+Desenvolvi um projeto de Machine Learning voltado para análise de dados de uma academia, com foco na identificação de padrões e geração de previsões. Utilizei Python e bibliotecas de modelagem para treinar e avaliar o modelo, explorando variáveis relacionadas ao desempenho e comportamento dos usuários.
 
 https://colab.research.google.com/drive/1um8xc1P_g9Jq1SSPSo8VYFCyoCl1DsNQ?usp=sharing
 
